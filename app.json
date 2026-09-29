@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Ghi đơn cơm nắm",
+    "slug": "comnam-order-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": { "package": "vn.comnam.orders" },
+    "ios": { "bundleIdentifier": "vn.comnam.orders" }
+  }
+}
